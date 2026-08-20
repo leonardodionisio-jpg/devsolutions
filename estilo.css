@@ -8,10 +8,15 @@ body{
     font-family: arial,sans-serif;
 }
 
-.funcionalidade {
+.funcionalidades {
     padding: 20px;
+    background-color: rgb(52, 164, 52); 
 }
 
-.funcionalidade h2{
-    color: aqua;
+.funcionalidades h2{
+    color: rgb(43, 0, 255);
+}
+
+.secao-principal h1{
+    color: darkgreen;
 }
